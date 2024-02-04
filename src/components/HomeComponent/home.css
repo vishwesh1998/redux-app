@@ -1,0 +1,27 @@
+.products{
+    /* margin-top: ; */
+    padding-bottom: 30px;
+    /* position: relative; */
+    /* top: -12px; */
+}
+
+.productData{
+    /* border: 1px solid black; */
+    background: whitesmoke;
+    box-shadow: 8px 8px 15px black;
+    padding: 2rem;
+    margin-bottom: 4rem;
+    margin-left: 4.7rem;
+    /* margin: 1rem; */
+    /* mar */
+    /* margin: 1rem 2rem; */
+}
+
+@media (max-width : 468px){
+    .productData{
+        /* justify-self: center; */
+        /* justify-content: center; */
+        position: relative;
+        left: -35px;
+    }
+}

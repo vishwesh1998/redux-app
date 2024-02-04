@@ -1,0 +1,27 @@
+.cartName{
+    /* padding-bottom: -10px; */
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+
+.bilName{
+    position: relative;
+    top: 15px;
+}
+
+@media (max-width : 468px){
+    .cartName{
+        margin-right: 7rem;
+    }
+
+    .bilName{
+        margin-right: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .tb img{
+        margin-top: 30px;
+    }
+
+}
