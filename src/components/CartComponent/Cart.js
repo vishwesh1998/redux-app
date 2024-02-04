@@ -24,7 +24,7 @@ export default function Cart()
             <button className='btn-sm btn-info' onClick={()=>dispatch(ClrCart())}>Clear Cart</button>
         </div>
         </div>
-        <table className='table mt-3 data table-responsive'>
+        <table className='table mt-3 data table-responsive-lg'>
         <thead className='tr'>
             <tr>
                 <th>S. No.</th>
